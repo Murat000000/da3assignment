@@ -168,3 +168,5 @@ Future improvements could include:
 - Investigating **feature engineering techniques** to improve predictive power.
 
 By ensuring a **reproducible and structured workflow**, this project provides valuable insights into predictive modeling for Airbnb pricing.
+
+**AI was used for code generation, language editing and formatting**
